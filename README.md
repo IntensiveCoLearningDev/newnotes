@@ -63,9 +63,10 @@ Telegram：
 <!-- START_COMMIT_TABLE -->
 | Name | 1.09 | 1.10 | 1.11 | 1.12 | 1.13 | 1.14 | 1.15 |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [brucexu-eth](https://github.com/IntensiveCoLearningDev/newnotes/blob/main/notes/brucexu-eth.md) | ⭕️ | ⭕️ |   | | | | |
-| [HY-BOT](https://github.com/IntensiveCoLearningDev/newnotes/blob/main/notes/HY-BOT.md) | ⭕️ |   | | | | | |
+| [brucexu-eth](https://github.com/IntensiveCoLearningDev/newnotes/blob/main/notes/brucexu-eth.md) | ⭕️ | ⭕️ | ❌ | | | | |
+| [HY-BOT](https://github.com/IntensiveCoLearningDev/newnotes/blob/main/notes/HY-BOT.md) | ⭕️ | ⭕️ |   | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
